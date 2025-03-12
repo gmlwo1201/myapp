@@ -11,4 +11,4 @@
 - 페이지 중간에 'Hello World'를 배치
 - 폰트 사이즈와 글씨체 변경
 
-![poster](./flutterrun.png)
+![Image](https://github.com/user-attachments/assets/be08006b-8877-4f41-a01b-2ec2ca717da7)
