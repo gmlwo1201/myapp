@@ -1,16 +1,14 @@
-# myapp
+# 1주차 과제
 
-A new Flutter project.
+## 진행 과정
+1. Android Studio 설치
+2. Flutter 플러그인 설치
+3. Flutter SDK 설치 및 설정
 
-## Getting Started
+## Hello World 앱 실행
 
-This project is a starting point for a Flutter application.
+- main.dart 의 'flutter demo' 를 주석 처리
+- 페이지 중간에 'Hello World'를 배치
+- 폰트 사이즈와 글씨체 변경
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![poster](./flutterrun.png)
